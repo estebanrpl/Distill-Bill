@@ -162,6 +162,3 @@ cython_debug/
 
 #Data files
 training/
-
-#Enviroment
-.env
